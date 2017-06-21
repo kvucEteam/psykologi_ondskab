@@ -1,0 +1,15 @@
+/* Enkelt survey - SKAL findes hver gang - Brug F12 i IE*/
+
+#WebPartWPQ3{
+	background-color: white;
+}
+
+.pollQuestion
+{
+	font-family: arial;
+	font-size: 13px !important;
+	font-weight: bold;
+	
+}
+
+/*<td class="pollQuestion">*/

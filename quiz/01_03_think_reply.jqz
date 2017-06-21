@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<hotpot-jquiz-file>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <rdf:Description rdf:about="">
+    <dc:creator>tly</dc:creator>
+    <dc:title>T&amp;#x00E6;nk over disse sp&amp;#x00F8;rgsm&amp;#x00E5;l</dc:title>
+  </rdf:Description>
+</rdf:RDF><version>6</version>
+
+<data>
+<title>T&amp;#x00E6;nk over disse sp&amp;#x00F8;rgsm&amp;#x00E5;l</title>
+
+<timer><seconds>60</seconds><include-timer>0</include-timer></timer>
+
+<reading>
+<include-reading>0</include-reading>
+<reading-title></reading-title>
+<reading-text></reading-text>
+
+</reading>
+
+<questions><question-record><question>Hvad er karakteristisk for den eksperimentelle socialpsykologi?
+&quot;Jeg er f&amp;#x00E6;rdig med at t&amp;#x00E6;nke. Hvad t&amp;#x00E6;nker du Mr. Hint? &amp;#x003E;&amp;#x003E;&quot;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>1</question-type><answers><answer><text>Eksperimentel psykologi henter sin viden fra eksperimenter. Asch&amp;#x00B4;s fors&amp;#x00F8;g er et eksempel p&amp;#x00E5; et eksperiment, hvor man under kontrollerede former unders&amp;#x00F8;ger menneskers reaktioner p&amp;#x00E5; bestemte p&amp;#x00E5;virkninger.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Hvad er forskellen p&amp;#x00E5; laboratorieeksperimentet og felteksperimentet?
+&quot;Jeg er f&amp;#x00E6;rdig med at t&amp;#x00E6;nke. Hvad t&amp;#x00E6;nker du Mr. Hint? &amp;#x003E;&amp;#x003E;&quot;</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>2</question-type><answers><answer><text>I laboratorieeksperimenter (som Asch&amp;#x00B4;s) opstilles en kunstig virkelighed. Big Brother udsendelsen kan v&amp;#x00E6;re et tilsvarende eksempel fra underholdningsverdenen. Fordelen ved laboratorieeksperimentet er, at det er ret nemt at kontrollere omst&amp;#x00E6;ndighederne, s&amp;#x00E5; udefrakommende forstyrrende impulser kan undg&amp;#x00E5;s. 
+
+I mods&amp;#x00E6;tning til laboratorieeksperimentet, som alts&amp;#x00E5; finder sted i et lukket rum, s&amp;#x00E5; udspilles felteksperimentet n&amp;#x00E6;rmere virkeligheden. Det kender vi ogs&amp;#x00E5; fra underholdningsindustrien, et eksempel kan v&amp;#x00E6;re Robinson-ekspeditionen. Fordelen ved felteksperimentet er, at det foreg&amp;#x00E5;r i mere naturtro, realistiske omgivelser, ligner alts&amp;#x00E5; virkeligheden mere. Til geng&amp;#x00E6;ld kan det v&amp;#x00E6;re sv&amp;#x00E6;rt at kontrollere omst&amp;#x00E6;ndighederne.</text><feedback></feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>P&amp;#x00E5; hvilke punkter er den eksperimentelle socialpsykologi blevet kritiseret?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>2</question-type><answers><answer><text>Den eksperimentelle psykologi er blevet kritiseret for at dens resultater opn&amp;#x00E5;s i isolerede situationer. Ude i den virkelige virkelighed er mennesker underlagt mange faktorer i de sociale milj&amp;#x00F8;er de lever i til daglig.
+Dern&amp;#x00E6;st er det blevet diskuteret, hvad man kan tillade sig at uds&amp;#x00E6;tte mennesker for i eksperimenterne. Denne vinkel vender vi tilbage til i n&amp;#x00E6;ste afsnit om Milgrams fors&amp;#x00F8;g.</text><feedback>Den eksperimentelle psykologi er blevet kritiseret for at dens resultater opn&amp;#x00E5;s i isolerede situationer. Ude i den virkelige virkelighed er mennesker underlagt mange faktorer i de sociale milj&amp;#x00F8;er de lever i til daglig.
+Dern&amp;#x00E6;st er det blevet diskuteret, hvad man kan tillade sig at uds&amp;#x00E6;tte mennesker for i eksperimenterne. Denne vinkel vender vi tilbage til i n&amp;#x00E6;ste afsnit om Milgrams fors&amp;#x00F8;g.]</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>Hvordan forholder det sig med Aschs fors&amp;#x00F8;g?</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>2</question-type><answers><answer><text>Asch&amp;#x00B4;s fors&amp;#x00F8;g belaster m&amp;#x00E5;ske ikke fors&amp;#x00F8;gspersonerne mere end de kan klare. Men omfanget af fors&amp;#x00F8;gets gyldighed kan man nok diskutere. Ude i virkeligheden er der mange faktorer, som man ogs&amp;#x00E5; skal tage i betragtning. Jeg n&amp;#x00E6;vner blot nogle i fl&amp;#x00E6;ng: Hvor godt man kender hinanden, om situationen er kendt p&amp;#x00E5; forh&amp;#x00E5;nd, hvor gammel man er o.s.v. Men som en tendens er fors&amp;#x00F8;get fint. Vi vil alle sammen have en tendens til at g&amp;#x00F8;re som de andre, men ikke alle g&amp;#x00F8;r det altid i alle situationer.]</text><feedback>Asch&amp;#x00B4;s fors&amp;#x00F8;g belaster m&amp;#x00E5;ske ikke fors&amp;#x00F8;gspersonerne mere end de kan klare. Men omfanget af fors&amp;#x00F8;gets gyldighed kan man nok diskutere. Ude i virkeligheden er der mange faktorer, som man ogs&amp;#x00E5; skal tage i betragtning. Jeg n&amp;#x00E6;vner blot nogle i fl&amp;#x00E6;ng: Hvor godt man kender hinanden, om situationen er kendt p&amp;#x00E5; forh&amp;#x00E5;nd, hvor gammel man er o.s.v. Men som en tendens er fors&amp;#x00F8;get fint. Vi vil alle sammen have en tendens til at g&amp;#x00F8;re som de andre, men ikke alle g&amp;#x00F8;r det altid i alle situationer.]</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question>I teksten n&amp;#x00E6;vnes to perspektiver: 1) Det individualpsykologiske perspektiv og 2) Det socialpsykologiske eller gruppepsykologiske perspektiv. Forklar hvad der menes med dine egne ord. Og hvorfor er det en god id&amp;#x00E9; at have &amp;#x00F8;je for begge perspektiver?
+</question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>2</question-type><answers><answer><text>Det individualpsykologiske perspektiv handler om det enkelte menneskes psykologi. Vi g&amp;#x00E5;r ind i gruppen med bestemte egenskaber og s&amp;#x00E6;rtr&amp;#x00E6;k.
+Det gruppepsykologiske perspektiv handler om, hvad gruppen g&amp;#x00F8;r ved det enkelte menneske.
+I dette forl&amp;#x00F8;b om ondskab bruger vi begge perspektiver: P&amp;#x00E5; den ene side ser vi ondskab som b&amp;#x00E5;ret af det enkelte menneske. P&amp;#x00E5; den anden side ses ondskab som en del af gruppens v&amp;#x00E6;sen. Hver is&amp;#x00E6;r repr&amp;#x00E6;senterer de en side af sandheden.</text><feedback>Det individualpsykologiske perspektiv handler om det enkelte menneskes psykologi. Vi g&amp;#x00E5;r ind i gruppen med bestemte egenskaber og s&amp;#x00E6;rtr&amp;#x00E6;k.
+Det gruppepsykologiske perspektiv handler om, hvad gruppen g&amp;#x00F8;r ved det enkelte menneske.
+I dette forl&amp;#x00F8;b om ondskab bruger vi begge perspektiver: P&amp;#x00E5; den ene side ser vi ondskab som b&amp;#x00E5;ret af det enkelte menneske. P&amp;#x00E5; den anden side ses ondskab som en del af gruppens v&amp;#x00E6;sen. Hver is&amp;#x00E6;r repr&amp;#x00E6;senterer de en side af sandheden.</feedback><correct>1</correct><percent-correct>100</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record><question-record><question></question><clue></clue><category></category><weighting>100</weighting><fixed>0</fixed><question-type>2</question-type><answers><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer><answer><text></text><feedback></feedback><correct>0</correct><percent-correct>0</percent-correct><include-in-mc-options>1</include-in-mc-options></answer></answers></question-record></questions>
+</data>
+
+<hotpot-config-file>
+<jquiz>
+<exercise-subtitle>Quiz</exercise-subtitle>
+<instructions></instructions>
+<guess-correct>Correct!</guess-correct>
+<guess-incorrect>Sorry! Try again.</guess-incorrect>
+<partly-incorrect>Your answer is partly wrong: </partly-incorrect>
+<enter-a-guess>Please enter a guess.</enter-a-guess>
+<next-correct-letter>Next correct letter in the answer: </next-correct-letter>
+<correct-answers>Correct answers: </correct-answers>
+<show-answer-caption>Show answer</show-answer-caption>
+<include-hint>1</include-hint>
+<include-show-answer>1</include-show-answer>
+<next-ex-url>nextpage.htm</next-ex-url>
+<send-email>0</send-email>
+<continuous-scoring>1</continuous-scoring>
+<show-correct-first-time>1</show-correct-first-time>
+<shuffle-questions>0</shuffle-questions>
+<shuffle-answers>0</shuffle-answers>
+<show-limited-questions>0</show-limited-questions>
+<questions-to-show>2</questions-to-show>
+<short-answer-tries-on-hybrid-q>2</short-answer-tries-on-hybrid-q>
+<separate-javascript-file>0</separate-javascript-file>
+<case-sensitive>0</case-sensitive>
+<include-keypad>0</include-keypad>
+</jquiz>
+
+<global>
+<your-score-is>Your score is </your-score-is>
+<correct-indicator>:-)</correct-indicator>
+<incorrect-indicator>X</incorrect-indicator>
+<correct-first-time>Questions answered correctly first time: </correct-first-time>
+<completed-so-far>Questions completed so far: </completed-so-far>
+<exercise-completed>You have completed the exercise.</exercise-completed>
+<keypad-characters></keypad-characters>
+<times-up>Your time is over!</times-up>
+<next-ex-caption>=&amp;#x003E;</next-ex-caption>
+<back-caption>&amp;#x003C;=</back-caption>
+<contents-caption>Index</contents-caption>
+<include-next-ex>1</include-next-ex>
+<include-contents>1</include-contents>
+<include-back>0</include-back>
+<contents-url>contents.htm</contents-url>
+<graphic-url></graphic-url>
+<font-face>Geneva,Arial,sans-serif</font-face>
+<font-size>small</font-size>
+<page-bg-color>#C0C0C0</page-bg-color>
+<title-color>#000000</title-color>
+<ex-bg-color>#FFFFFF</ex-bg-color>
+<text-color>#000000</text-color>
+<link-color>#0000FF</link-color>
+<vlink-color>#0000CC</vlink-color>
+<nav-bar-color>#000000</nav-bar-color>
+<formmail-url>http://yourserver.com/cgi-bin/FormMail.pl</formmail-url>
+<email>you@yourserver.com</email>
+<name-please>Please enter your name:</name-please>
+<user-string-1>one</user-string-1>
+<user-string-2>two</user-string-2>
+<user-string-3>three</user-string-3>
+<header-code></header-code>
+<correct-first-time>Questions answered correctly first time: </correct-first-time>
+<check-caption>Check</check-caption>
+<ok-caption>OK</ok-caption>
+<next-q-caption>=&amp;#x003E;</next-q-caption>
+<last-q-caption>&amp;#x003C;=</last-q-caption>
+<hint-caption>Hint</hint-caption>
+<show-all-questions-caption>Show all questions</show-all-questions-caption>
+<show-one-by-one-caption>Show questions one by one</show-one-by-one-caption>
+<show-also-correct>1</show-also-correct>
+<process-for-rtl>0</process-for-rtl>
+<include-scorm-12>0</include-scorm-12>
+</global>
+</hotpot-config-file>
+</hotpot-jquiz-file>
